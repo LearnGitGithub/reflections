@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 a hidden directory called .git is created with some metadata to keep
 track of the history of changes, etc.
+
+How can you use the staging area to make sure you
+have one commit per logical change?
+
+Use add once (?)
