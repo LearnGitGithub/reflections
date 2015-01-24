@@ -2,3 +2,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
 a hidden directory called .git is created with some metadata to keep
 track of the history of changes, etc.
+
+How is the staging area different from the working directory and the
+  repository? What value do you think it offers?
+
+The staging area is a mediator or stepping stone between the two.
+It allows batching.
